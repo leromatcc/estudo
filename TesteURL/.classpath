@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/tcc/workspace_estudo/TesteURL/libs"/>
+	<classpathentry kind="lib" path="C:/tcc/workspace_estudo/TesteURL/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/tcc/workspace_estudo/TesteURL/libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/tcc/workspace_estudo/TesteURL/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/tcc/workspace_estudo/TesteURL/libs/fluent-hc-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/tcc/workspace_estudo/TesteURL/libs/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/tcc/workspace_estudo/TesteURL/libs/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/tcc/workspace_estudo/TesteURL/libs/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/tcc/workspace_estudo/TesteURL/libs/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/tcc/workspace_estudo/TesteURL/libs/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/tcc/workspace_estudo/TesteURL/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/tcc/workspace_estudo/TesteURL/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
