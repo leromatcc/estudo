@@ -1,4 +1,4 @@
-package com.rends.processa.ProcessaImagem;
+package com.rends.processa;
 
 public interface ReceiptScanner {
 	//
