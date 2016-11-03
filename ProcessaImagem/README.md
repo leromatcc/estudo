@@ -7,5 +7,6 @@ O código é a transcrição das imagens contidas no artigo: https://gmartinezgi
 - Projeto em maven
 
 # Versões 
+03/novembro/2016 - ainda não funcionando, arquivo de treinamento do idioma espanhol e portugues adicionados
 03/novembro/2016 - ainda não funcionando, falta arquivo de treinamento do idioma espanhol
 
