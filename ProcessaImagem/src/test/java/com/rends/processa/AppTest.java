@@ -1,4 +1,4 @@
-package com.rends.processa.ProcessaImagem;
+package com.rends.processa;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
