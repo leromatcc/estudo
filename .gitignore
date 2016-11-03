@@ -1,0 +1,4 @@
+target
+*.class
+/TesteURL/capturas/*.jpg
+/TesteURL/capturas1/*.jpg
